@@ -1,0 +1,6 @@
+REGEDIT4
+
+[-HKEY_CLASSES_ROOT\openfile]
+[-HKEY_CLASSES_ROOT\openfile\shell]
+[-HKEY_CLASSES_ROOT\openfile\shell\open]
+[-HKEY_CLASSES_ROOT\openfile\shell\open\command]
